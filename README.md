@@ -1,30 +1,34 @@
-# ⚡ Monish Shekh | Full Stack MERN Developer
+# ⚡ Monish Shekh | Full Stack MERN Developer <img src="https://media.giphy.com/media/hvRJCLzz8CztfW4xtr/giphy.gif" width="30">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00599C&center=true&vCenter=true&width=435&lines=MERN+Stack+Expert;National+Hackathon+Winner;Building+Future+with+Code;4x+Internship+Experience" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=00599C&height=150&section=header&text=Monish%20Shekh&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Building%20Scalable%20MERN%20Solutions&descAlignY=60&descSize=20" alt="Header" />
 </div>
 
+<table border="0">
+  <tr>
+    <td width="60%">
+      <h3>👋 Hey there! I'm Monish</h3>
+      <p>A passionate <b>Full Stack Developer</b> and <b>National Hackathon Winner</b>. I specialize in building high-performance web and mobile applications with clean architecture.</p>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00599C&width=435&lines=MERN+Stack+Expert;National+Hackathon+Winner;Building+Future+with+Code;4x+Internship+Experience" alt="Typing SVG" />
+    </td>
+    <td width="40%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monish-dev003&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
 ---
 
-### 🏆 National Hall of Fame
-- 🥇 **1st Rank** – AIKYAM 3.0 National Hackathon (2025)
-- 🥈 **2nd Rank** – Orisys 2025 National Hackathon
-- 🥈 **2nd Rank** – Brain Tech 2024 National Hackathon
-- 🎤 **Event Host** – Departmental National Level Hackathon
-
----
-
-### 💻 Tech Universe (Neon Icons)
+### 🛠️ My Tech Universe (Neon Grid)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,redux,flutter,dart,aws,gcp,docker,git,php,laravel,py,cpp,mysql,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,redux,flutter,dart,aws,gcp,docker,git,php,laravel,py,cpp,mysql,figma,postman" />
 </p>
 
 ---
 
-### 📊 Engineering Metrics (Dark Neon Theme)
+### 📊 Performance Metrics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=monish-dev003&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monish-dev003&layout=compact&theme=tokyonight&hide_border=false" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=monish-dev003&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
@@ -33,14 +37,16 @@
 
 ---
 
-### 🚀 Key Projects Portfolio
+### 🚀 Key Projects Showcase
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **💰 Expensely** | AI-Powered Money Manager with JWT | MERN, Chart.js |
-| **✍️ Inkwell** | Modern Blogging Platform | Node, React, JWT |
-| **📊 Word Analyser**| Real-time Text Analysis Tool | JS, CSS, HTML |
-| **🌐 Portfolio** | Responsive Professional Identity | React, Tailwind |
+<div align="center">
+<table border="0">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=monish-dev003&repo=monish-dev003&theme=tokyonight&show_owner=false&description=💰+Expensely:+AI+Finance+Manager" width="380" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=monish-dev003&repo=monish-dev003&theme=tokyonight&show_owner=false&description=✍️+Inkwell:+Modern+Blog+Platform" width="380" /></td>
+  </tr>
+</table>
+</div>
 
 ---
 
