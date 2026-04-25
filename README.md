@@ -58,7 +58,7 @@
 
 ### 🏆 Achievements
 * 🥇 **1st Rank** – AIKYAM 3.0 National Hackathon
-* 🥈 **2nd Rank** – Orisys 2025 National Hackathon
+* 🥈 **2nd Rank** – Oriana 2025 National Hackathon
 * 🎖️ **Event Host** – Departmental National Level Hackathon
 
 <div align="right">
