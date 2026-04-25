@@ -1,18 +1,19 @@
 # ⚡ Monish Shekh | Full Stack MERN Developer <img src="https://media.giphy.com/media/hvRJCLzz8CztfW4xtr/giphy.gif" width="28">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00599C&height=180&section=header&text=Monish%20Shekh&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Building%20Future%20with%20Code%20|%20MERN%20Expert&descAlignY=60&descSize=20" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00599C&center=true&vCenter=true&width=500&height=100&lines=Monish+Shekh;MERN+Stack+Expert;National+Hackathon+Winner;Building+Future+with+Code" alt="Typing SVG" />
 </div>
 
-<table border="0">
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
-    <td width="60%">
+    <td width="60%" valign="top">
       <h3>👋 Hey Everyone, I'm Monish</h3>
+      <p>💻 <b>MERN Stack Developer & UI/UX Enthusiast</b></p>
       <ul>
-        <li>🚀 Building high-performance MERN applications with clean architecture.</li>
+        <li>🚀 Building high-performance applications with clean architecture.</li>
         <li>🏆 <b>1st Rank</b> – AIKYAM 3.0 National Hackathon (2025).</li>
         <li>🎓 <b>B.Voc in Software Development</b> (CGPA: 7.09 | 5 Sems Completed, 6th Awaited).</li>
-        <li>💼 Completed <b>4 Professional Internships</b> in Node.js, React, Flutter, and Laravel.</li>
+        <li>💼 Completed <b>4 Professional Internships</b> in Node, React, Flutter, and Laravel.</li>
       </ul>
       <p align="left">
         <a href="mailto:monishshekh03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -20,8 +21,8 @@
         <a href="https://instagram.com/monish_.03"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
       </p>
     </td>
-    <td width="40%">
-      <img src="https://github.com/ABSphreak/ABSphreak/raw/master/assets/work.gif" width="100%" />
+    <td width="40%" align="center" valign="middle">
+      <img src="https://github.com/ABSphreak/ABSphreak/raw/master/assets/work.gif" width="100%" style="border-radius:10px;" />
     </td>
   </tr>
 </table>
@@ -34,7 +35,7 @@
 
 ---
 
-### 📊 GitHub Engineering Metrics (Rossyn Neon Theme)
+### 📊 GitHub Engineering Metrics (Tokyonight Neon)
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=monish-dev003&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
@@ -53,7 +54,7 @@
 
 ### 🏆 Achievements
 * 🥇 **1st Rank** – AIKYAM 3.0 National Hackathon
-* 🥈 **2nd Rank** – Orisys 2025 National Hackathon
+* 🥈 **2nd Rank** – Oriana 2025 National Hackathon
 * 🥈 **2nd Rank** – Brain Tech 2024 National Hackathon
 * 🎤 **Event Host** – Departmental National Level Hackathon
 
