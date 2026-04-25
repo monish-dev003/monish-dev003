@@ -1,7 +1,7 @@
 # ⚡ Monish Shekh | Full Stack MERN Developer <img src="https://media.giphy.com/media/hvRJCLzz8CztfW4xtr/giphy.gif" width="28">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=0d1117&height=120&section=header&animation=twinkling" alt="Header Background" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00599C&height=120&section=header" alt="Header Background" />
 </div>
 
 <div align="center">
@@ -26,14 +26,21 @@
       </p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif" width="100%" style="border: 2px solid #00599C; border-radius:15px;" />
+      <img src="https://github.com/ABSphreak/ABSphreak/raw/master/assets/work.gif" width="100%" style="border: 2px solid #00599C; border-radius:15px;" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 💻 Tech Universe (Neon Bento Boxes)
+### 📈 Monthly Contribution Progress (Snake Graph)
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=monish-dev003&theme=tokyonight&area=true&hide_border=false" />
+</p>
+
+---
+
+### 💻 Tech Universe (Bento Boxes)
 
 <div align="center">
 
@@ -49,28 +56,8 @@
 
 ---
 
-### 📈 GitHub Monthly Progress & Metrics
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=monish-dev003&theme=tokyonight&area=true&hide_border=false" />
-</p>
+### 📊 Engineering Metrics (Tokyonight Neon)
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=monish-dev003&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monish-dev003&layout=compact&theme=tokyonight&hide_border=false" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=monish-dev003&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 Achievements
-* 🥇 **1st Rank** – AIKYAM 3.0 National Hackathon
-* 🥈 **2nd Rank** – Oriana 2025 National Hackathon
-* 🥈 **2nd Rank** – Brain Tech 2024 National Hackathon
-
-<div align="right">
-  <img src="https://visitcount.itsvg.in/api?id=monish-dev003&label=Profile%20Visitors&color=0&style=flat-square" />
-</div>
+  <img width="49%" src="
