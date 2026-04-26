@@ -81,14 +81,14 @@
 **📦 By Repository**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monish-dev003&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6&border_radius=10)](https://github.com/monish-dev003)
-
+<td width="50%" align="center">
 </td>
 
 
 **📝 By Commits**
 
 [![Top Langs Compact](https://github-readme-stats.vercel.app/api/top-langs/?username=monish-dev003&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8&border_radius=10)](https://github.com/monish-dev003)
-<td width="70%" align="center">
+
 </td>
 </tr>
 </table>
@@ -145,10 +145,10 @@
 
 | Rank | Event | Year |
 |------|-------|------|
-| 🥇 1st Place | AIKYAM 3.0 — National Hackathon | 2025 |
-| 🥈 2nd Place | Oriana 2025 — National Hackathon | 2025 |
-| 🥈 2nd Place | Brain Tech 2024 — National Hackathon | 2024 |
-| 🎤 Event Host | Departmental National Level Hackathon | — |
+| 🥇 1st Place | AIKYAM 3.0 — National Hackathon (IT QUIIZ) | 2025 |
+| 🥈 2nd Place | Oriana 2025 — National Hackathon (IT QUIIZ) | 2025 |
+| 🥈 2nd Place | Brain Tech 2024 — National Hackathon (IT QUIZ) | 2024 |
+| 🎤 Event Host | Departmental National Level Hackathon | 2024 |
 
 </div>
 
