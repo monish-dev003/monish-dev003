@@ -76,7 +76,7 @@
 
 <table width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="80%" align="center">
 
 **📦 By Repository**
 
