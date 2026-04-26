@@ -172,6 +172,8 @@
 <br/>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0:1a5276,50:0a3d62,100:0d1117&height=120&section=footer&animation=fadeIn" />
+</div>
 
 </div>type=waving&color=0:1a5276,50:0a3d62,100:0d1117&height=120&section=footer&animation=fadeIn" />
 </div>
