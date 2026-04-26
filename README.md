@@ -137,17 +137,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=monish-dev003&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=6)](https://github.com/monish-dev003)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
----
 
 ## 🎯 Achievements
 
