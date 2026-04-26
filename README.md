@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=36&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&width=700&lines=Hey+Everyone!+I'm+Monish+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;Hackathon+Champion+%F0%9F%8F%86;UI%2FUX+Enthusiast+%F0%9F%8E%A8)](https://github.com/monish-dev003)
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0:0d1117,50:0a3d62,100:1a5276&height=200&section=header&text=Monish%20Shekh%20%7C%20MERN%20Developer&fontSize=38&fontColor=58a6ff&fontAlignY=60&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast%20%7C%20Hackathon%20Champion%20%F0%9F%8F%86&descAlignY=80&descSize=15&animation=fadeIn" />
+
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="80%" valign="top">
 
 ## 💻 Welcome to My GitHub Universe!
 
