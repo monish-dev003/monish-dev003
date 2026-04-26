@@ -4,9 +4,9 @@
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
 ## 💻 Welcome to My GitHub Universe!
 
@@ -28,11 +28,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/monish_.03)
 
 </td>
-<td width="45%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/> 
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280px" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300px" />
 
 </td>
 </tr>
@@ -42,7 +40,7 @@
 
 ## 📊 Monish's GitHub Dashboard
 
-<table>
+<table width="100%">
 <tr>
 <td colspan="2" align="center">
 
@@ -68,7 +66,7 @@
 
 ## 🗣️ Top Languages
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" align="center">
 
@@ -145,11 +143,9 @@
 [![LinkedIn](https://img.shields.io/badge/monish--shekh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monish-shekh)
 [![Instagram](https://img.shields.io/badge/%40monish_.03-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/monish_.03)
 
-<br/>
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
 </div>
+
+<br/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/render?type=waving&color=0:1a5276,50:0a3d62,100:0d1117&height=120&section=footer" />
