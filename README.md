@@ -76,14 +76,14 @@
 
 <table width="100%">
 <tr>
-<td width="80%" align="center">
+<td width="60%" align="center">
 
 **📦 By Repository**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monish-dev003&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6&border_radius=10)](https://github.com/monish-dev003)
 
 </td>
-<td width="50%" align="center">
+<td width="60%" align="center">
 
 **📝 By Commits**
 
