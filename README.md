@@ -1,5 +1,9 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0:0d1117,50:0a3d62,100:1a5276&height=200&section=header&text=Monish%20Shekh%20%7C%20MERN%20Developer&fontSize=38&fontColor=58a6ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast%20%7C%20Hackathon%20Champion%20%F0%9F%8F%86&descAlignY=58&descSize=15&animation=fadeIn" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+Everyone!+I'm+Monish+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;Hackathon+Champion+%F0%9F%8F%86;UI%2FUX+Enthusiast+%F0%9F%8E%A8)](https://github.com/monish-dev003)
+
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0:0d1117,50:0a3d62,100:1a5276&height=200&section=header&text=Monish%20Shekh%20%7C%20MERN%20Developer&fontSize=38&fontColor=58a6ff&fontAlignY=60&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast%20%7C%20Hackathon%20Champion%20%F0%9F%8F%86&descAlignY=80&descSize=15&animation=fadeIn" />
+
 </div>
 
 <br/>
@@ -36,6 +40,8 @@
 </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 ---
 
 ## 📊 Monish's GitHub Dashboard
@@ -62,6 +68,8 @@
 </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 ---
 
 ## 🗣️ Top Languages
@@ -84,6 +92,8 @@
 </td>
 </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ---
 
@@ -123,6 +133,8 @@
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -132,6 +144,8 @@
 [![Trophy](https://github-profile-trophy.vercel.app/?username=monish-dev003&theme=matrix&no-frame=false&no-bg=true&margin-w=6&margin-h=6&row=2&column=4)](https://github.com/monish-dev003)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ---
 
