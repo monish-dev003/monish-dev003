@@ -141,7 +141,7 @@
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=monish-dev003&theme=matrix&no-frame=false&no-bg=true&margin-w=6&margin-h=6&row=2&column=4)](https://github.com/monish-dev003)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=monish-dev003&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=6)](https://github.com/monish-dev003)
 
 </div>
 
@@ -162,5 +162,5 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0:1a5276,50:0a3d62,100:0d1117&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0:1a5276,50:0a3d62,100:0d1117&height=120&section=footer&animation=fadeIn" />
 </div>
