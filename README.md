@@ -163,8 +163,15 @@
 [![LinkedIn](https://img.shields.io/badge/monish--shekh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monish-shekh)
 [![Instagram](https://img.shields.io/badge/%40monish_.03-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/monish_.03)
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="700" />
+
 </div>
 
+<br/>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0:1a5276,50:0a3d62,100:0d1117&height=120&section=footer&animation=fadeIn" />
+
+</div>type=waving&color=0:1a5276,50:0a3d62,100:0d1117&height=120&section=footer&animation=fadeIn" />
 </div>
