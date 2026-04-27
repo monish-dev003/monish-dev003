@@ -10,7 +10,7 @@
 
 <table width="100%">
 <tr>
-<td width="100%" valign="top">
+<td width="80%" valign="top">
 
 ## 💻 Welcome to My GitHub Universe!
 
@@ -227,6 +227,4 @@
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0:1a5276,50:0a3d62,100:0d1117&height=120&section=footer&animation=fadeIn" />
-</div>
+
