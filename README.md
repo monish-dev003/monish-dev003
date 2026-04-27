@@ -10,7 +10,7 @@
 
 <table width="100%">
 <tr>
-<td width="80%" valign="top">
+<td width="100%" valign="top">
 
 ## 💻 Welcome to My GitHub Universe!
 
