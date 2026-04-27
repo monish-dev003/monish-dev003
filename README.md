@@ -137,7 +137,62 @@
 
 ---
 
+## 🚀 Featured Projects
 
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 💸 Expensly
+> Smart expense tracking app to manage your finances effortlessly. Track income, expenses, and budgets with a clean dashboard and real-time insights.
+
+**Tech:** React · Node.js · MongoDB · Express
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-238636?style=for-the-badge)](https://expensly-1.onrender.com)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧑‍💼 Portfolio
+> My personal developer portfolio showcasing projects, skills, achievements, and experience. Built with modern UI/UX design principles.
+
+**Tech:** React · Tailwind CSS · Framer Motion
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-238636?style=for-the-badge)](https://portfolio-new-tau-umber.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📝 Word Analyzer
+> A powerful text analysis tool that provides word count, character count, reading time, keyword density, and more — instantly in your browser.
+
+**Tech:** React · JavaScript · CSS3
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-238636?style=for-the-badge)](https://word-analyzer-7ut2.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🖊️ Inkwell Blog
+> A full-featured blogging platform where users can create, publish, and explore articles. Clean reading experience with rich text support.
+
+**Tech:** React · Node.js · MongoDB · Express
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-238636?style=for-the-badge)](https://inkwellblog-sigma.vercel.app)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+---
 
 ## 🎯 Achievements
 
