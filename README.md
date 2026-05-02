@@ -16,7 +16,7 @@
 
 - 🚀 Building **high-performance** apps with clean architecture
 - 🏆 **1st Rank** – AIKYAM 3.0 National Hackathon (2025)
-- 🎓 **B.Voc Software Development** | CGPA: 7.09 5 sems | 6 Sems result awaited 
+- 🎓 **B.Voc Software Development** | CGPA: 7.15  
 - 💼 **4 Professional Internships** – Node · React · Flutter · Laravel
 - 🌱 Currently exploring **Next.js** & **Cloud Architecture**
 - 🤝 Open to **Freelance** & **Full-Time** Opportunities
